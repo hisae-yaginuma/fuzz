@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Chalkduster';
+    src: url('fonts/Chalkduster.woff') format('woff'),
+        url('fonts/Chalkduster.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GrutchShaded';
+    src: url('fonts/GrutchShaded.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'crayon';
+    src: url('fonts/crayon.ttf') format('truetype');
+}
